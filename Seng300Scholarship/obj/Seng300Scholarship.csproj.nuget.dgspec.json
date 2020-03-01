@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/myosubug/Documents/programming/school/seng300/project/SENG300group13/Seng300Scholarship/Seng300Scholarship.csproj": {}
+    "/Users/myosubug/Documents/programming/school/seng300/SENG300group13/Seng300Scholarship/Seng300Scholarship.csproj": {}
   },
   "projects": {
-    "/Users/myosubug/Documents/programming/school/seng300/project/SENG300group13/Seng300Scholarship/Seng300Scholarship.csproj": {
+    "/Users/myosubug/Documents/programming/school/seng300/SENG300group13/Seng300Scholarship/Seng300Scholarship.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/myosubug/Documents/programming/school/seng300/project/SENG300group13/Seng300Scholarship/Seng300Scholarship.csproj",
+        "projectUniqueName": "/Users/myosubug/Documents/programming/school/seng300/SENG300group13/Seng300Scholarship/Seng300Scholarship.csproj",
         "projectName": "Seng300Scholarship",
-        "projectPath": "/Users/myosubug/Documents/programming/school/seng300/project/SENG300group13/Seng300Scholarship/Seng300Scholarship.csproj",
+        "projectPath": "/Users/myosubug/Documents/programming/school/seng300/SENG300group13/Seng300Scholarship/Seng300Scholarship.csproj",
         "packagesPath": "/Users/myosubug/.nuget/packages/",
-        "outputPath": "/Users/myosubug/Documents/programming/school/seng300/project/SENG300group13/Seng300Scholarship/obj/",
+        "outputPath": "/Users/myosubug/Documents/programming/school/seng300/SENG300group13/Seng300Scholarship/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/myosubug/.config/NuGet/NuGet.Config"
