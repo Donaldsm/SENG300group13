@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{32906D1C-470C-43DA-A151-933C211E5A8E}|Default">
   <MonoDevelop.Ide.ItemProperties.Seng300Scholarship PreferredExecutionTarget="/Applications/Brave Browser.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="24" Column="66" />
+      <File FileName="Program.cs" Line="26" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

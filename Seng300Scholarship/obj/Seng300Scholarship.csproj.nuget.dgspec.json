@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< Updated upstream
     "/Users/myosubug/Documents/programming/school/seng300/project/SENG300group13/Seng300Scholarship/Seng300Scholarship.csproj": {}
   },
   "projects": {
@@ -13,19 +12,6 @@
         "projectPath": "/Users/myosubug/Documents/programming/school/seng300/project/SENG300group13/Seng300Scholarship/Seng300Scholarship.csproj",
         "packagesPath": "/Users/myosubug/.nuget/packages/",
         "outputPath": "/Users/myosubug/Documents/programming/school/seng300/project/SENG300group13/Seng300Scholarship/obj/",
-=======
-    "/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/Seng300Scholarship.csproj": {}
-  },
-  "projects": {
-    "/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/Seng300Scholarship.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/Seng300Scholarship.csproj",
-        "projectName": "Seng300Scholarship",
-        "projectPath": "/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/Seng300Scholarship.csproj",
-        "packagesPath": "/Users/myosubug/.nuget/packages/",
-        "outputPath": "/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/",
->>>>>>> Stashed changes
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/myosubug/.config/NuGet/NuGet.Config"

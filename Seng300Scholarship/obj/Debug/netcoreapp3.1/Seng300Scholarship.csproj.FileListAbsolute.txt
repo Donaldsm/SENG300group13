@@ -33,7 +33,6 @@ C:/1/SENG 300/project/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/
 C:/1/SENG 300/project/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.dll
 C:/1/SENG 300/project/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.pdb
 C:/1/SENG 300/project/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.csproj.CopyComplete
-<<<<<<< Updated upstream
 /Users/myosubug/Documents/programming/school/seng300/project/SENG300group13/Seng300Scholarship/bin/Debug/netcoreapp3.1/appsettings.Development.json
 /Users/myosubug/Documents/programming/school/seng300/project/SENG300group13/Seng300Scholarship/bin/Debug/netcoreapp3.1/appsettings.json
 /Users/myosubug/Documents/programming/school/seng300/project/SENG300group13/Seng300Scholarship/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
@@ -68,39 +67,3 @@ C:/1/SENG 300/project/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/
 /Users/myosubug/Documents/programming/school/seng300/project/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.dll
 /Users/myosubug/Documents/programming/school/seng300/project/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.pdb
 /Users/myosubug/Documents/programming/school/seng300/project/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.csproj.CopyComplete
-=======
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/bin/Debug/netcoreapp3.1/appsettings.Development.json
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/bin/Debug/netcoreapp3.1/appsettings.json
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/bin/Debug/netcoreapp3.1/Seng300Scholarship.deps.json
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/bin/Debug/netcoreapp3.1/Seng300Scholarship.runtimeconfig.json
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/bin/Debug/netcoreapp3.1/Seng300Scholarship.runtimeconfig.dev.json
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/bin/Debug/netcoreapp3.1/Seng300Scholarship.dll
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/bin/Debug/netcoreapp3.1/Seng300Scholarship.pdb
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/bin/Debug/netcoreapp3.1/Seng300Scholarship.Views.dll
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/bin/Debug/netcoreapp3.1/Seng300Scholarship.Views.pdb
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.csprojAssemblyReference.cache
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.MvcApplicationPartsAssemblyInfo.cache
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.RazorAssemblyInfo.cache
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.RazorAssemblyInfo.cs
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.AssemblyInfoInputs.cache
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.AssemblyInfo.cs
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.TagHelpers.input.cache
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.TagHelpers.output.cache
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.RazorCoreGenerate.cache
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Razor/Pages/Privacy.cshtml.g.cs
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.RazorTargetAssemblyInfo.cache
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.RazorTargetAssemblyInfo.cs
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.Views.pdb
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/staticwebassets/Seng300Scholarship.StaticWebAssets.Manifest.cache
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/staticwebassets/Seng300Scholarship.StaticWebAssets.xml
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.dll
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.pdb
-/Users/myosubug/Projects/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.csproj.CopyComplete
->>>>>>> Stashed changes
