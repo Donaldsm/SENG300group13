@@ -8,33 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\donal\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/myosubug/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\1\\SENG 300\\project\\SENG300group13\\Seng300Scholarship\\Seng300Scholarship.csproj",
+      "projectUniqueName": "/Users/myosubug/Documents/programming/school/seng300/project/SENG300group13/Seng300Scholarship/Seng300Scholarship.csproj",
       "projectName": "Seng300Scholarship",
-      "projectPath": "C:\\1\\SENG 300\\project\\SENG300group13\\Seng300Scholarship\\Seng300Scholarship.csproj",
-      "packagesPath": "C:\\Users\\donal\\.nuget\\packages\\",
-      "outputPath": "C:\\1\\SENG 300\\project\\SENG300group13\\Seng300Scholarship\\obj\\",
+      "projectPath": "/Users/myosubug/Documents/programming/school/seng300/project/SENG300group13/Seng300Scholarship/Seng300Scholarship.csproj",
+      "packagesPath": "/Users/myosubug/.nuget/packages/",
+      "outputPath": "/Users/myosubug/Documents/programming/school/seng300/project/SENG300group13/Seng300Scholarship/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\donal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/myosubug/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -68,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
       }
     }
   }
