@@ -21,6 +21,7 @@ namespace Seng300Scholarship
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
+                    //trying comments to make some changes : sean
                 });
     }
 }
