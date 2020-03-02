@@ -1,15 +1,22 @@
 ﻿<Properties StartupConfiguration="{32906D1C-470C-43DA-A151-933C211E5A8E}|Default">
   <MonoDevelop.Ide.ItemProperties.Seng300Scholarship PreferredExecutionTarget="/Applications/Brave Browser.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Index.cshtml">
     <Files>
-      <File FileName="Program.cs" Line="26" Column="2" />
+      <File FileName="Program.cs" Line="10" Column="29" />
+      <File FileName="Pages/Index.cshtml" Line="17" Column="45" />
+      <File FileName="wwwroot/css/site.css" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Seng300Scholarship" expanded="True">
             <Node name="Seng300Scholarship" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
