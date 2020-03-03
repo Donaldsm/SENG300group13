@@ -1,0 +1,38 @@
+[
+  {
+    "type": "student",
+    "id": 10294576,
+    "name": "Bob Hope",
+    "email": "bob1@saskuni.ca",
+    "password": "p@ssw0rd"
+  },
+  {
+    "type": "student",
+    "id": 10294577,
+    "name": "Cassandra Hope",
+    "email": "cass1@saskuni.ca",
+    "password": "p@ssw0rd"
+  },
+  {
+    "type": "student",
+    "id": 10294578,
+    "name": "Sarah Hope",
+    "email": "sar1@saskuni.ca",
+    "password": "p@ssw0rd"
+  },
+  {
+    "type": "student",
+    "id": 10294579,
+    "name": "James Hope",
+    "email": "james1@saskuni.ca",
+    "password": "p@ssw0rd"
+  },
+  {
+    "type": "student",
+    "id": 10294572,
+    "name": "Sam Hope",
+    "email": "same1@saskuni.ca",
+    "password": "p@ssw0rd"
+  }
+  
+]
