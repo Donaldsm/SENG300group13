@@ -21,6 +21,7 @@ namespace Seng300Scholarship
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
+                    //adding comments to check push
                 });
     }
 }

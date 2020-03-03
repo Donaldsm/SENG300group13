@@ -10,4 +10,7 @@
 
 
 
+  <ItemGroup>
+    <Content Remove="wwwroot\css\index_login.css" />
+  </ItemGroup>
 </Project>
