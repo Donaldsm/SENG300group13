@@ -87,7 +87,6 @@ C:/1/SENG 300/project/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/
 /Users/myosubug/Documents/programming/school/seng300/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.TagHelpers.output.cache
 /Users/myosubug/Documents/programming/school/seng300/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.RazorCoreGenerate.cache
 /Users/myosubug/Documents/programming/school/seng300/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs
-/Users/myosubug/Documents/programming/school/seng300/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs
 /Users/myosubug/Documents/programming/school/seng300/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Razor/Pages/Privacy.cshtml.g.cs
 /Users/myosubug/Documents/programming/school/seng300/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs
 /Users/myosubug/Documents/programming/school/seng300/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
@@ -101,3 +100,4 @@ C:/1/SENG 300/project/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/
 /Users/myosubug/Documents/programming/school/seng300/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.dll
 /Users/myosubug/Documents/programming/school/seng300/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.pdb
 /Users/myosubug/Documents/programming/school/seng300/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Seng300Scholarship.csproj.CopyComplete
+/Users/myosubug/Documents/programming/school/seng300/SENG300group13/Seng300Scholarship/obj/Debug/netcoreapp3.1/Razor/Pages/index.cshtml.g.cs
