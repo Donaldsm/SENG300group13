@@ -24,6 +24,7 @@ namespace Seng300Scholarship
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            services.AddTransient<MySQLDatabase>(_ => new MySQLDatabase("server=Disco; database=MySQL80; uid=root; pwd=root;"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

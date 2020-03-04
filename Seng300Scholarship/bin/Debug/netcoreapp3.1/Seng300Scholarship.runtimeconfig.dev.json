@@ -1,8 +1,10 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/myosubug/.dotnet/store/|arch|/|tfm|",
-      "/Users/myosubug/.nuget/packages"
+      "C:\\Users\\donal\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\donal\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }
 }
