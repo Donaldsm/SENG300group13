@@ -1,0 +1,93 @@
+[
+	{
+		"title": "Youth Poet Laureate",
+		"value": 3000,
+		"amount": 1,
+		"org": "League of Canadian Poets",
+		"img": null,
+		"duration": "year-based",
+		"deadline": "May 1, 2020",
+		"scope": "nation-wide",
+		"major": null,
+		"GPA": 2.0,
+		"candidates": [ "undergraduate students", "master students", "PhD students" ],
+		"student-status": null,
+		"other-restrictions": null,
+		"supplement": true,
+		"supp-descr": "Applicants must submit a short story (2 - 10 pages) for the board's consideration."
+	}
+
+	{
+		"title": "Google Excellence in Computer Science Scholarship",
+		"value": 10000,
+		"amount": 3,
+		"org": "Google",
+		"img": null,
+		"duration": "year-based",
+		"deadline": "August 5, 2020",
+		"scope": "nation-wide",
+		"major": "Computer Science",
+		"GPA": 4.0,
+		"candidates": [ "undergraduate students", "master students" ],
+		"students-status": "full-time student",
+		"other-restrictions": null,
+		"supplement": null,
+		"supp-descr": null
+	}
+
+	{
+		"title": "University of Saskatchewan Tuition Scholarship",
+		"value": 2500,
+		"amount": 5,
+		"org": "University of Saskatchewan",
+		"img": null,
+		"duration": "year-based",
+		"deadline": "July 1, 2020",
+		"scope": "univesity-wide",
+		"major": null,
+		"GPA": 3.0,
+		"candidates": [ "undergraduate students" ],
+		"students-status": "full-time student",
+		"other-restrictions": [ "full-time students only" ],
+		"supplement": null,
+		"supp-descr": null
+	}
+
+	{
+		"title": "University of Saskatchewan Fancy Feet Award",
+		"value": 500,
+		"amount": 15,
+		"org": "University of Saskatchewan",
+		"img": null,
+		"duration": "term-based",
+		"deadline": "April 30, 2020",
+		"scope": "department-wide",
+		"major": "Dance",
+		"GPA": 2.5,
+		"candidates": [ "undergraduate students", "master students", "PhD students" ],
+		"students-status": null,
+		"other-restrictions": null,
+		"supplement": null,
+		"supp-descr": null
+	}
+
+	{
+		"title": "The LOUD Scholarship",
+		"value": 1000,
+		"amount": 5,
+		"org": "The LOUD Foundation",
+		"img": null,
+		"duration": "term-based",
+		"deadline": "May 25, 2020",
+		"scope": "nation-wide",
+		"major": null,
+		"GPA": 2.7,
+		"candidates": [ "undergraduate students" ],
+		"students-status": "full-time student",
+		"other-restrictions": null,
+		"supplement": true,
+		"supp-descr": "Please provide two letters of reference that outline your involvement in local diversity initiatives and your likelihood of success in your post-secondary career. At least one reference must be from the applicant's school."
+	}
+
+
+]
