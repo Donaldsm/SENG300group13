@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/Users/myosubug/.dotnet/store/|arch|/|tfm|",
-      "/Users/myosubug/.nuget/packages"
-    ]
-  }
-}
