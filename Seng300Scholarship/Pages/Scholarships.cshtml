@@ -1,0 +1,15 @@
+﻿@page
+@model Seng300Scholarship.Pages.Index1Model
+@{
+    ViewData["Title"] = "Available Scholarships";
+}
+
+    <div class="text-center">
+        <h1 class="display-4">Available Scholarships</h1>
+        <p>The scholarships currently available to you are listed below:</p>
+    </div>
+
+@foreach (var scholarship in Model.Scholarships)
+{
+    <h2>@scholarship.Title</h2>
+}
