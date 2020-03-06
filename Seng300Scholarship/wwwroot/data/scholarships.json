@@ -15,7 +15,7 @@
 		"other-restrictions": null,
 		"supplement": true,
 		"supp-descr": "Applicants must submit a short story (2 - 10 pages) for the board's consideration."
-	}
+	},
 
 	{
 		"title": "Google Excellence in Computer Science Scholarship",
@@ -31,9 +31,9 @@
 		"candidates": [ "undergraduate students", "master students" ],
 		"students-status": "full-time student",
 		"other-restrictions": null,
-		"supplement": null,
+		"supplement": false,
 		"supp-descr": null
-	}
+	},
 
 	{
 		"title": "University of Saskatchewan Tuition Scholarship",
@@ -48,10 +48,10 @@
 		"GPA": 3.0,
 		"candidates": [ "undergraduate students" ],
 		"students-status": "full-time student",
-		"other-restrictions": [ "full-time students only" ],
-		"supplement": null,
+		"other-restrictions": null,
+		"supplement": false,
 		"supp-descr": null
-	}
+	},
 
 	{
 		"title": "University of Saskatchewan Fancy Feet Award",
@@ -67,9 +67,9 @@
 		"candidates": [ "undergraduate students", "master students", "PhD students" ],
 		"students-status": null,
 		"other-restrictions": null,
-		"supplement": null,
+		"supplement": false,
 		"supp-descr": null
-	}
+	},
 
 	{
 		"title": "The LOUD Scholarship",

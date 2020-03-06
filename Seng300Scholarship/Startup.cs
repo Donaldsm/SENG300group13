@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Seng300Scholarship.Services;
 
 namespace Seng300Scholarship
 {
@@ -24,6 +25,7 @@ namespace Seng300Scholarship
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            services.AddTransient<JsonFileService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
