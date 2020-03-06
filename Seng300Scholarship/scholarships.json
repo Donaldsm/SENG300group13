@@ -1,0 +1,16 @@
+[
+  {
+    "awardTitle": "Hello",
+    "awardAmount": "Hello",
+    "numberOfAwards": "Hello",
+    "companyTitle": "Hello",
+    "Duration": "Hello",
+    "Deadline": "Hello",
+    "Scope": "Hello",
+    "GPAreq": "World",
+    "courseRestriction": null,
+    "candidateRestriction": "World",
+    "fulltimeStatus": "World",
+    "supplementary": "World"
+  }
+]

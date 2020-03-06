@@ -2,9 +2,84 @@
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
+
+
+
 }
 
 <div class="text-center">
-    <h1 class="display-4">Scholarships</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <form method="get" >
+        <label for="Award Title">Award Title</label>
+        <input type="text" name="Award Title" value="" />
+        <br />
+        <label for="Award Amount">Award Amount</label>
+        <input type="text" name="Award Amount" value="" />
+        <br />
+        <label for="Number of Awards">Number of Awards</label>
+        <input type="text" name="Number of Awards" value="" />
+        <br />
+        <label for="Company">Company</label>
+        <input type="text" name="Company" value="" />
+        <br />
+        <label for="Duration">Duration</label>
+        <input type="text" name="Duration" value="" />
+        <br />
+        <label for="Deadline">Deadline</label>
+        <input type="text" name="Deadline" value="" />
+        <br />
+        <label for="Scope">Scope</label>
+        <input type="text" name="Scope" value="" />
+        <br />
+        <label for="GPA Requirements">GPA Requirements</label>
+        <input type="text" name="GPA Requirements" value="" />
+        <br />
+        <label for="Course/Year Restriction">Course/Year Restriction</label>
+        <input type="text" name="Course/Year Restrictions" value="" />
+        <br />
+        <label for="Candidate Restrictions">Candidate Restrictions</label>
+        <input type="text" name="Candidate Restrictions" value="" />
+        <br />
+        <label for="Full-Time Status">Full-Time Status </label>
+        <input type="text" name="Full-Time Status" value="" />
+        <br />
+        <label for="Supplementary Material">Supplementary Material</label>
+        <input type="text" name="Supplementary Material" value="" />
+        <br />
+        <input type="submit" name="submit" value="Submit" />
+    </form>
+
 </div>
+
+@{  
+    
+
+    var AwardTitle = Request.Query["Award Title"];
+    var AwardAmount = Request.Query["Award Amount"];
+    var NumberOfAwards = Request.Query["Number of Awards"];
+    var Company = Request.Query["Company"];
+    var Duration = Request.Query["Duration"];
+    var Deadline = Request.Query["Deadline"];
+    var Scope = Request.Query["Scope"];
+    var GPARequirements = Request.Query["GPA Requirements"];
+    var YearRestriction = Request.Query["Course/Year Restriction"];
+    var CandidateRestrictions = Request.Query["Candidate Restrictions"];
+    var Status = Request.Query["Full-Time Status"];
+    var Supplementary = Request.Query["Supplementary Material"];
+
+    Scholarship Scholarship1 = new Scholarship(AwardTitle, AwardAmount, NumberOfAwards, Company, Duration, Deadline, Scope, GPARequirements, YearRestriction, CandidateRestrictions, Status, Supplementary);
+
+    List<Scholarship> Schol = new List<Scholarship>();
+    Schol.Add(new Scholarship(AwardTitle, AwardAmount, NumberOfAwards, Company, Duration, Deadline, Scope, GPARequirements, YearRestriction, CandidateRestrictions, Status, Supplementary));
+
+    string json = Newtonsoft.Json.JsonConvert.SerializeObject(Schol.ToArray(), Newtonsoft.Json.Formatting.Indented);
+
+    //write string to file
+    System.IO.File.WriteAllText(@"C:.\scholarships.json", json);
+
+
+
+
+
+
+
+}
